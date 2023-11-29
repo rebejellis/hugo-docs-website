@@ -1,4 +1,3 @@
-
 ---
 id: technical-writing-portfolio
 ---
