@@ -1,7 +1,12 @@
-## Cross Cultural Content Solutions
+# Cross Cultural Content Solutions
+
+---
+id: greetings
+---
+
+## Intro
 
 ### Stories by Rebecca Ellis, Writer
-
 
 <!-- Adjust the image sizes and alignment as needed -->
 <div style="display: flex; align-items: center;">
@@ -10,22 +15,26 @@
 </div>
 
 ---
+id: technical-writing-portfolio
+---
 
-### Technical Writing 
+## Technical Writing 
 
-#### Technical/UX writing samples
+### Technical/UX writing samples
 
 [View Technical Writing samples](https://s3.amazonaws.com/external_clips/4884984/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1700503305)
 
-#### Linea Blockchain Network Solution and Use Case Studies
+### Linea Blockchain Network Solution and Use Case Studies
 
 - **Publication:** [ethereumworldnews.com](http://ethereumworldnews.com)
 Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual machine that sits on top of Ethereum and participates in Ethereum’s security mechanism. Linea offloads transaction validation, reducing processing costs in the Ethereum execution environment by providing Ethereum with reports that transactions took place and were completed without revealing the details of each transaction. Linea preserves knowledge of the inner workings of these contracts while optimizing Ethereum's processing power.
 - **File:** [View Linea Blockchain Network Solution and Use Case Studies](https://s3.amazonaws.com/external_clips/4877903/Consensys_Technical_Writing_Sample.pdf?1699985027)
 
 ---
+id: journalistic-writing-portfolio
+---
 
-### Journalistic Writing samples 
+## Journalistic Writing samples 
 
 - [rebejellis.wordpress.com](https://rebejellis.wordpress.com)
 - [The Brooklyn Ink.](https://s3.amazonaws.com/external_clips/clip_publications/1284/small/1284.jpg?1329233631)
@@ -53,3 +62,10 @@ Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual
 - [ethereumworldnews.com](https://www.google.com/s2/favicons?domain=ethereumworldnews.com)
 - [Google](https://www.google.com/s2/favicons?domain=google.com.my)
 
+---
+id: contact
+---
+
+## Contact Me
+
+[Reach out to Rebecca](https://www.savvycard.com/rebejellis/techwriter-savvycdard/1459_scid)
