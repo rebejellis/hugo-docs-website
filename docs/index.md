@@ -1,3 +1,26 @@
+---
+
+### Technical Writing 
+
+#### Technical/UX writing samples
+
+- **Publication:** [Google](http://google.com.my)
+- **Visibility:** Everyone
+- **Description:** A sample of technical writing work with target audiences ranging from developers to end users. Includes API documentation and customer emails.
+- **File:** [View Technical Writing samples](https://s3.amazonaws.com/external_clips/4884984/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1700503305)
+
+---
+
+#### Linea Blockchain Network Solution and Use Case Studies
+
+- **Publication:** [ethereumworldnews.com](http://ethereumworldnews.com)
+- **Visibility:** Everyone
+- **Description:** Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual machine that sits on top of Ethereum and participates in Ethereum’s security mechanism. Linea offloads transaction validation, reducing processing costs in the Ethereum execution environment by providing Ethereum with reports that transactions took place and were completed without revealing the details of each transaction. Linea preserves knowledge of the inner workings of these contracts while optimizing Ethereum's processing power.
+- **File:** [View Linea Blockchain Network Solution and Use Case Studies](https://s3.amazonaws.com/external_clips/4877903/Consensys_Technical_Writing_Sample.pdf?1699985027)
+
+
+### Journalistic Writing samples 
+
 - [rebejellis.wordpress.com](https://rebejellis.wordpress.com)
 - [The Brooklyn Ink.](https://s3.amazonaws.com/external_clips/clip_publications/1284/small/1284.jpg?1329233631)
 - [Touro College](https://www.google.com/s2/favicons?domain=touro.edu)
@@ -23,3 +46,4 @@
 - [voice.com](https://www.google.com/s2/favicons?domain=voice.com)
 - [ethereumworldnews.com](https://www.google.com/s2/favicons?domain=ethereumworldnews.com)
 - [Google](https://www.google.com/s2/favicons?domain=google.com.my)
+
