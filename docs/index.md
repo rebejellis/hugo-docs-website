@@ -31,7 +31,7 @@ Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual
 - **File:** [View Linea Blockchain Network Solution and Use Case Studies](https://s3.amazonaws.com/external_clips/4877903/Consensys_Technical_Writing_Sample.pdf?1699985027)
 
 ---
-id: journalistic-writing-portfolio
+id: journalism-portfolio
 ---
 
 ## Journalistic Writing samples 
