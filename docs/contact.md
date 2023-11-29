@@ -1,5 +1,5 @@
 ---
-id: contacct
+id: contact
 ---
 
 ## Contact Me
