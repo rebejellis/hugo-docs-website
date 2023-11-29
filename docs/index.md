@@ -1,3 +1,11 @@
+# Stories by Rebecca Ellis - Cross Cultural Content Solutions
+
+### Social Media Information
+
+![Rebecca Ellis](https://s3.amazonaws.com/external_clips/users/6481/large/rebecca-bkink-1060.jpg?1332469171)
+Stories by Rebecca Ellis
+Writer
+
 ---
 
 ### Technical Writing 
