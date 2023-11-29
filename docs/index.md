@@ -1,7 +1,7 @@
 # Cross Cultural Content Solutions 
 
 <div style="display: flex; align-items: center;">
-    <img src="assets/New_Logo.png" alt="QR-Code" style="width: 400px; height: 400px;">
+    <img src="assets/New_Logo.png" alt="QR-Code" style="width: 400px; height: 300px;">
 </div>
 
 ---
