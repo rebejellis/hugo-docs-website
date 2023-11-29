@@ -1,3 +1,7 @@
+---
+id: greetings
+---
+
 ## Intro
 
 ### Stories by Rebecca Ellis, Writer
