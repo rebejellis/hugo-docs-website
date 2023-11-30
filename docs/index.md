@@ -10,6 +10,7 @@
 
 Global Management Leader & Technical Writer | Expert in IT Delivery, Projects, Engagement | Specialization: Cloud Support, Education, AI/ML
 
+
 As a seasoned professional in the Information Technology sector, I bring over a decade of expertise in managing deliveries, projects, engagements, and transitions within the AI/ML, cloud support, and software development realms. My career spans across diverse international settings, including Mexico, Germany, Switzerland, and the US, where I've excelled in cross-border communications and digital content management.
 
 ### Stories by Rebecca Ellis, Writer
