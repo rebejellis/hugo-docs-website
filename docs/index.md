@@ -1,11 +1,5 @@
 # Cross Cultural Content Solutions 
 
----
-id: index
----
-
-## Home
-
 <div style="display: flex; align-items: center;">
     <img src="assets/New_Logo.png" alt="QR-Code" style="width: 400px; height: 300px;">
 </div>
