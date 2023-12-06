@@ -2,6 +2,6 @@
 id: resume
 ---
 
-##Resume
+## Resume
 
 See my [resume](assets/RebeccaEllisTWPMResume.pdf)
