@@ -4,4 +4,4 @@ id: resume
 
 ## Resume
 
-See my [resume](assets/RebeccaEllisTWPMResume.pdf)
+[![Resume](assets/Resume.png)](assets/RebeccaEllisTWPMResume.pdf)
