@@ -2,7 +2,7 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 sidebar:
   - greetings
-  - resume
   - technical-writing-portfolio
   - journalism-portfolio
+  - resume
   - contact
