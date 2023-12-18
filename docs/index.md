@@ -28,11 +28,11 @@ As a seasoned professional in the Information Technology sector, I bring over a 
 ### Samples
 
 - [View Technical Writing samples](https://s3.amazonaws.com/external_clips/4884984/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1700503305)
-- [Additional Technical Writing Samples](assets/Additional TW Samples Rebecca Ellis.pdf)
+- [Additional Technical Writing Samples](https://github.com/rebejellis/xcultural-content/blob/119d530830ac905f512483151890589224d76f58/docs/assets/Additional%20TW%20Samples%20Rebecca%20Ellis.pdf)
 
 ### genAI Experiment... more coming soon
 
-- [Read about my genAI experiment to restructure text for documentation](assets/AI Experiment_Restructuring Text.pdf)
+- [Read about my genAI experiment to restructure text for documentation]([assets/AI Experiment_Restructuring Text.pdf](https://github.com/rebejellis/xcultural-content/blob/119d530830ac905f512483151890589224d76f58/docs/assets/AI%20Experiment_%20Restructuring%20Text.pdf))
 
 ### Linea Blockchain Network Solution and Use Case Studies
 
