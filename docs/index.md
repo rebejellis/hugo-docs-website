@@ -27,7 +27,7 @@ As a seasoned professional in the Information Technology sector, I bring over a 
 
 ### Samples
 
-- [View Technical Writing samples](https://s3.amazonaws.com/external_clips/4884984/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1700503305)
+- [View Technical Writing Portfolio](https://s3.amazonaws.com/external_clips/4884984/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1700503305)
 - [Additional Technical Writing Samples](https://github.com/rebejellis/xcultural-content/blob/119d530830ac905f512483151890589224d76f58/docs/assets/Additional%20TW%20Samples%20Rebecca%20Ellis.pdf)
 
 ### genAI Experiment... more coming soon
