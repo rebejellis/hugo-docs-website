@@ -28,7 +28,7 @@ As a seasoned professional in the Information Technology sector, I bring over a 
 ### Writing samples
 
 - [View Technical Writing samples](https://s3.amazonaws.com/external_clips/4884984/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1700503305)
-- [Additional Technical Writing Samples here](docs/assets/Additional TW Samples Rebecca Ellis.pdf)
+- [Additional Technical Writing Samples here](assets/Additional TW Samples Rebecca Ellis.pdf)
 
 ### Linea Blockchain Network Solution and Use Case Studies
 
