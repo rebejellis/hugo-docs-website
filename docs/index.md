@@ -28,7 +28,11 @@ As a seasoned professional in the Information Technology sector, I bring over a 
 ### Samples
 
 - [View Technical Writing samples](https://s3.amazonaws.com/external_clips/4884984/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1700503305)
-- [Additional Technical Writing Samples here](assets/Additional TW Samples Rebecca Ellis.pdf)
+- [Additional Technical Writing Samples](assets/Additional TW Samples Rebecca Ellis.pdf)
+
+### genAI Experiment... more coming soon
+
+- [Read about my genAI experiment to restructure text for documentation](assets/AI Experiment_Restructuring Text.pdf)
 
 ### Linea Blockchain Network Solution and Use Case Studies
 
