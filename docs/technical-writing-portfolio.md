@@ -8,6 +8,7 @@ id: technical-writing-portfolio
 
 - [View Technical Writing Portfolio](https://s3.amazonaws.com/external_clips/4955139/Senior_TW_Portfolio_Rebecca_Ellis_2-1.pdf?1708468030)
 - [Additional Technical Writing Samples](https://github.com/rebejellis/xcultural-content/blob/9acd4deeca2d6521f99c41d2f9dc5c69ca7acfb6/docs/assets/Additional%20TW%20Samples%20Rebecca%20Ellis%20-%20Procedures.pdf)
+- [Learnship: Documenting a Language Learning Platform](https://s3.amazonaws.com/external_clips/4972829/Onboarding_guide_LEARNSHIP.pdf?1710973248)
 
 ### Linea Blockchain Network Solution and Use Case Studies
 
