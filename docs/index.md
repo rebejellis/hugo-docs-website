@@ -45,13 +45,13 @@ Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual
 ### More coming soon...
 
 - [Read about my genAI experiment to restructure text for documentation](https://github.com/rebejellis/xcultural-content/blob/5df401a0c6bf210966a1cfeb5e6164b93461ad63/docs/assets/AI%20Experiment_%20Restructuring%20Text.pdf){:target="_blank"}
-- **Article:** [GenAI and the Language Arts](https://xcultural-content-bucket.s3.us-east-2.amazonaws.com/GenAI+and+the+language+arts.pdf){:target="_blank"}
+- **Article:** [GenAI and the Language Arts](https://github.com/rebejellis/xcultural-content/blob/26987f4788f2bedf3b1f2ee55253c670ab349b56/docs/assets/GenAI%20and%20the%20language%20arts.pdf){:target="_blank"}
 
 ---
 
 ## Resume
 
-See my [technical writing resume here](https://github.com/rebejellis/xcultural-content/blob/d39296c84d9bdabd6b6ad839b2540087468c7c0f/docs/assets/RebeccaEllisTWPMResume-2024.pdf)
+See my [technical writing resume here](https://github.com/rebejellis/xcultural-content/blob/d39296c84d9bdabd6b6ad839b2540087468c7c0f/docs/assets/RebeccaEllisTWPMResume-2024.pdf){:target="_blank"}
 
 ---
 
