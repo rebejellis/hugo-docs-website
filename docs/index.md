@@ -28,15 +28,15 @@ As a seasoned professional in the Information Technology sector, I bring over a 
 
 ### Samples
 
-- [View Technical Writing Portfolio](s3://xcultural-content-bucket/Senior TW Portfolio Rebecca Ellis 2-1.pdf)
-- [Additional Technical Writing Samples](s3://xcultural-content-bucket/Additional TW Samples Rebecca Ellis - Procedures.pdf)
-- [Learnship: Documenting a Language Learning Platform](s3://xcultural-content-bucket/Onboarding guide LEARNSHIP.pdf
+- [View Technical Writing Portfolio](https://xcultural-content-bucket.s3.us-east-2.amazonaws.com/Senior+TW+Portfolio+Rebecca+Ellis+2-1.pdf)
+- [Additional Technical Writing Samples](https://xcultural-content-bucket.s3.us-east-2.amazonaws.com/Additional+TW+Samples+Rebecca+Ellis+-+Procedures.pdf)
+- [Learnship: Documenting a Language Learning Platform](https://xcultural-content-bucket.s3.us-east-2.amazonaws.com/Onboarding+guide+LEARNSHIP.pdf)
 
 ### Linea Blockchain Network Solution and Use Case Studies
 
 - **Publication:** [ethereumworldnews.com](http://ethereumworldnews.com)
 Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual machine that sits on top of Ethereum and participates in Ethereum’s security mechanism. Linea offloads transaction validation, reducing processing costs in the Ethereum execution environment by providing Ethereum with reports that transactions took place and were completed without revealing the details of each transaction. Linea preserves knowledge of the inner workings of these contracts while optimizing Ethereum's processing power.
-- **File:** [View Linea Blockchain Network Solution and Use Case Studies](s3://xcultural-content-bucket/ConsensysWritingSample.pdf)
+- **File:** [View Linea Blockchain Network Solution and Use Case Studies](https://xcultural-content-bucket.s3.us-east-2.amazonaws.com/ConsensysWritingSample.pdf)
 
 ---
 
@@ -45,13 +45,13 @@ Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual
 ### More coming soon...
 
 - [Read about my genAI experiment to restructure text for documentation](https://github.com/rebejellis/xcultural-content/blob/5df401a0c6bf210966a1cfeb5e6164b93461ad63/docs/assets/AI%20Experiment_%20Restructuring%20Text.pdf)
-- **Article:** [GenAI and the Language Arts](s3://xcultural-content-bucket/GenAI and the language arts.pdf)
+- **Article:** [GenAI and the Language Arts](https://xcultural-content-bucket.s3.us-east-2.amazonaws.com/GenAI+and+the+language+arts.pdf)
 
 ---
 
 ## Resume
 
-See my [technical writing resume here](s3://xcultural-content-bucket/RebeccaEllisTWPMResume-2024.pdf).
+See my [technical writing resume here](https://xcultural-content-bucket.s3.us-east-2.amazonaws.com/Senior+TW+Portfolio+Rebecca+Ellis+2-1.pdf)
 
 ---
 
