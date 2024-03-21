@@ -1,5 +1,8 @@
 ---
-id: contact
+    - title: contact
+      jurl: /contact.html
+      <!---hurl: /solutions/widgets/acme/docs/sample-->
+      ref: contact
 ---
 
 ## Contact Me
