@@ -1,4 +1,4 @@
-theme: zendesk/jekyll-theme-dinky
+theme: jekyll-theme-dinky
 
 sidebar:
   - greetings
