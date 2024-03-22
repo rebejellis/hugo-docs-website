@@ -30,7 +30,7 @@ As a seasoned professional in the Information Technology sector, I bring over a 
 
 - [View Technical Writing Portfolio](https://github.com/rebejellis/xcultural-content/blob/647701a1cc50dd5960f036d6441e7ce07ae46c81/docs/assets/Senior%20TW%20Portfolio%20Rebecca%20Ellis%202-1.pdf){:target="_blank"}
 - [Additional Technical Writing Samples](https://github.com/rebejellis/xcultural-content/blob/9acd4deeca2d6521f99c41d2f9dc5c69ca7acfb6/docs/assets/Additional%20TW%20Samples%20Rebecca%20Ellis%20-%20Procedures.pdf){:target="_blank"}
-- [Learnship: Documenting a Language Learning Platform](https://github.com/rebejellis/xcultural-content/blob/647701a1cc50dd5960f036d6441e7ce07ae46c81/docs/assets/Onboarding%20guide%20LEARNSHIP.pdf){:target="_blank"}
+- [Documenting a Language Learning Platform](https://github.com/rebejellis/xcultural-content/blob/647701a1cc50dd5960f036d6441e7ce07ae46c81/docs/assets/Onboarding%20guide%20LEARNSHIP.pdf){:target="_blank"}
 
 ### Linea Blockchain Network Solution and Use Case Studies
 
