@@ -52,7 +52,7 @@ Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual
 
 ## Resume
 
-See my [technical writing resume here](https://github.com/rebejellis/xcultural-content/blob/d39296c84d9bdabd6b6ad839b2540087468c7c0f/docs/assets/RebeccaEllisTWPMResume-2024.pdf){:target="_blank"}
+See my [technical writing resume here](docs/assets/RebeccaEllisTWPMResume-2024.pdf){:target="_blank"}
 
 ---
 
