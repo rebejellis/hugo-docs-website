@@ -34,7 +34,7 @@ Consult the table below for more information on which models can be used for you
 Docusaurus markdown does not support embedded dropdowns or filters within tables. I would suggest using JavaScript (maybe DataTables or React Table) or a Docusaurus plugin to add that functionality to the table.
 -->
 
-See the section on [Supported Models](https://gptforwork.com/help/supported-models) to find out more information on which of these models require an API key.
+See the section on [Supported Models](https://gptforwork.com/help/supported-models) to find out which of these models require an API key.
 
 Are you ready to let AI help you get your work done better and faster?
 
