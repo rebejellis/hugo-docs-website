@@ -2,7 +2,7 @@
 
 Imagine having ChatGPT built right into your work tools. Now you can unleash the power of AI for your Microsoft and Google Workspace tools with [GPT for Work](https://gptforwork.com/).
 
-This connector provided by [Talarian](https://talarian.io/) helps you with your everyday documents, including:
+This connector, provided by [Talarian](https://talarian.io/), helps you with your everyday documents, including:
 - Writing and editing copy, translating documents
 - Cleaning lists, extracting entities, normalizing formats
 - Summarizing, classifying, categorizing
