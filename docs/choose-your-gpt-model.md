@@ -1,6 +1,6 @@
 ## Choosing the right GPT model for your use case
 
-Imagine having ChatGPT built right into your work tools. Now you can unleash the power of AI for your Microsoft and Google Workspace tools with [GPT for Work](https://gptforwork.com/).
+Imagine having GPT built right into your work tools. Now you can unleash the power of AI for your Microsoft and Google Workspace tools with [GPT for Work](https://gptforwork.com/).
 
 This connector, provided by [Talarian](https://talarian.io/), helps you with your everyday documents, including:
 - Writing and editing copy, translating documents
