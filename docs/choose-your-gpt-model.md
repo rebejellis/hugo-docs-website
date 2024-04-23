@@ -7,7 +7,7 @@ This connector provided by [Talarian](https://talarian.io/) helps you with your 
 - Cleaning lists, extracting entities, normalizing formats
 - Summarizing, classifying, categorizing
 
-GPT for Work uses many GPT models, including  GPT-3.5 Turbo, GPT-4, GPT-4 Turbo, Claude, and more, provided by:
+GPT for Work uses many GPT models, including  GPT-3.5 Turbo, GPT-4, GPT-4 Turbo, Claude, and more, which are provided by:
 - Anthropic
 - Azure
 - OpenAI
