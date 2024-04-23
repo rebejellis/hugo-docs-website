@@ -2,7 +2,7 @@
 
 Imagine having GPT built right into your work tools. Now you can unleash the power of AI for your Microsoft and Google Workspace tools with [GPT for Work](https://gptforwork.com/).
 
-This connector, provided by [Talarian](https://talarian.io/){:target="_blank"}, helps you with your everyday documents, including:
+This connector, provided by [Talarian](https://talarian.io/), helps you with your everyday documents, including:
 - Writing and editing copy, translating documents
 - Cleaning lists, extracting entities, normalizing formats
 - Summarizing, classifying, categorizing
@@ -39,6 +39,6 @@ For more information about which models require an API key, see the section on [
 Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost effective for you.
 
 Install GPT Work for:
-- [Excel and Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502&rs=en-US&correlationId=4218a2d3-0e65-ff74-335b-a1cc93c40d61){:target="_blank"}
-- [Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654){:target="_blank"}
+- [Excel and Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502&rs=en-US&correlationId=4218a2d3-0e65-ff74-335b-a1cc93c40d61)
+- [Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
 
