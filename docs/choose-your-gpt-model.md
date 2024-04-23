@@ -35,7 +35,8 @@ Docusaurus markdown does not support embedded dropdowns or filters within tables
 -->
 
 For more information about which models require an API key, see the section on [Supported Models](https://gptforwork.com/help/supported-models).
-Use the [Cost estimator])(https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost effective for you.
+
+Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost effective for you.
 
 Are you ready to let AI help you get your work done better and faster?
 
