@@ -1,6 +1,6 @@
 ## Choosing the right GPT model for your use case
 
-Imagine having ChatGPT embedded right into your work tools. Now you can embed it directly in your Microsoft and Google Workspace suite with [GPT for Work](https://gptforwork.com/).
+Imagine having ChatGPT built right into your work tools. Now you can unleash the power of AI for your Microsoft and Google Workspace tools with [GPT for Work](https://gptforwork.com/).
 
 GPT for Work helps you with your everyday documents, including:
 - Writing and editing copy, translating documents
