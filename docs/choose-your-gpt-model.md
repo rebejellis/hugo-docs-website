@@ -43,6 +43,6 @@ See the section on [Supported Modelshttps://gptforwork.com/help/supported-models
 Are you ready to let AI help you get your work done better and faster?
 
 Install GPT Work for:
-- Microsoft products: [Excel and Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502&rs=en-US&correlationId=4218a2d3-0e65-ff74-335b-a1cc93c40d61)
-- Google Workspace products: [Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
+- [Excel and Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502&rs=en-US&correlationId=4218a2d3-0e65-ff74-335b-a1cc93c40d61)
+- [Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
 
