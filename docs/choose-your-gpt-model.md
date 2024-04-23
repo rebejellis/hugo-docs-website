@@ -1,3 +1,19 @@
+## Choosing the right GPT model for your use case
+
+Imagine having ChatGPT embedded right into your work tools. Now you can embed it directly in your Microsoft and Google Workspace suite with [GPT for Work](https://gptforwork.com/).
+
+GPT for Work helps you with your everyday documents, including:
+- Writing and editing copy, translating documents
+- Cleaning lists, extracting entities, normalizing formats
+- Summarizing, classifying, categorizing
+
+GPT for Work uses many GPT models, including  GPT-3.5 Turbo, GPT-4, GPT-4 Turbo, Claude, and more, provided by:
+- Anthropic
+- Azure
+- OpenAI
+- Perplexity
+
+Consult the table below for more information on which models can be used for your specific use case.
 
 | Provider   | Model                                              | Use cases                |
 |------------|----------------------------------------------------|--------------------------|
@@ -17,3 +33,16 @@
 | OpenAI     | gpt-4-turbo                                        | Excel, Word, Sheets, Docs|
 | Perplexity | sonar-small-online (with GPT_WEB and Web browsing bulk tool) | Excel, Sheets |
 | OpenAI     | text-embedding-ada-002 (with GPT_MATCH)            | Excel, Sheets            |
+
+<!--
+Docusaurus markdown does not support embedded dropdowns or filters within tables. I would suggest using JavaScript (maybe DataTables or React Table) or a Docusaurus plugin to add that functionality to the table.
+-->
+
+See the section on [Supported Modelshttps://gptforwork.com/help/supported-models) to find out more information on which of these models require an API key.
+
+Are you ready to let AI help you get your work done better and faster?
+
+Install GPT Work for:
+- Microsoft products: [Excel and Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502&rs=en-US&correlationId=4218a2d3-0e65-ff74-335b-a1cc93c40d61)
+- Google Workspace products: [Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
+
