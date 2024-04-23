@@ -1,5 +1,5 @@
 | Use Cases | Providers & Models for GPT Work Use Cases |
-|:---------:|:----------------------------------------:|
+|:---------:|:-----------------------------------------:|
 | Excel     |                                          |
 |           | OpenAI gpt-3.5-turbo (0125)              |
 |           | Azure gpt-3.5-turbo (0613)               |
