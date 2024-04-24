@@ -18,7 +18,7 @@ The LLMs GPT for Work uses are provided by:
 Consult the table below for more information on which models can be used for your specific use case.
 
 
-| Use Cases | Models provided by: |
+| Use Cases | Models |
 |-----------|--------|
 | Excel     | <details><summary>OpenAI</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION)  <br> gpt-4-turbo <br> text-embedding-ada-002 (with GPT_MATCH)</details> <details><summary>Azure</summary>gpt-3.5-turbo (0613) <br> gpt-4  <br> gpt-4-turbo</details><details><summary>Perplexity</summary> sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
 | Word      | <details><summary>OpenAI</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-turbo</details> |
