@@ -29,7 +29,7 @@ Consult the table below for more information on which models can be used for you
 | Excel     | <details><summary>OpenAI</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION)  <br> gpt-4-turbo <br> text-embedding-ada-002 (with GPT_MATCH)</details> <details><summary>Azure</summary>gpt-3.5-turbo (0613) <br> gpt-4  <br> gpt-4-turbo</details><details><summary>Perplexity</summary> sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
 | Word      | <details><summary>OpenAI</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-turbo</details> |
 | Sheets    | <details><summary>OpenAI</summary>babbage-003 (fine-tuned)  <br>  davinci-002 (fine-tuned)  <br>  gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION) <br>  gpt-3.5-turbo-instruct  <br> gpt-3.5-turbo (fine-tuned)  <br> gpt-4-turbo  <br> text-embedding-ada-002 (with GPT_MATCH) </details> <details><summary>Anthropic</summary>claude-3-haiku <br> claude-3-opus <br> claude-3-sonnet </details> <details><summary>Azure</summary>gpt-3.5-turbo (0613) <br> gpt-4 <br> gpt-4-turbo<br> </details> <details><summary>Perplexity</summary>sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
-| Docs      | <details><summary>Models</summary>Anthropic claude-3-haiku <br> Anthropic claude-3-opus <br> Anthropic claude-3-sonnet <br> OpenAI gpt-3.5-turbo (0125) <br> OpenAI gpt-3.5-turbo-instruct <br> OpenAI gpt-4 <br> OpenAI gpt-4-turbo</details> |
+| Docs      | <details><summary>OpenAI</summary>gpt-3.5-turbo (0125) <br> gpt-3.5-turbo-instruct <br> gpt-4 <br> gpt-4-turbo </details> <details><summary> Anthropic</summary>claude-3-haiku <br> claude-3-opus <br> claude-3-sonnet</details> |
 
 
 <!--
