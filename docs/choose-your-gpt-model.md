@@ -34,7 +34,3 @@ For more information about which models require an API key, see the section on [
 
 Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.
 
-Install GPT for Work:
-- [Excel and Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502&rs=en-US&correlationId=4218a2d3-0e65-ff74-335b-a1cc93c40d61)
-- [Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
-
