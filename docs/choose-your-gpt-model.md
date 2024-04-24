@@ -13,8 +13,7 @@ GPT for Work uses many large language models (LLMs), including GPT-3.5 Turbo, GP
 - OpenAI
 - Perplexity
 
-Consult the table below for more information on which models can be used for your specific use case.
-
+Click the providers for each use case in the table below to see a dropdown list of all the models GPT for Work makes available.
 
 | Use Cases | Models |
 |-----------|--------|
