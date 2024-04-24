@@ -2,14 +2,12 @@
 
 Imagine having GPT built right into your work tools. Now you can unleash the power of AI for your Microsoft and Google Workspace tools with [GPT for Work](https://gptforwork.com/).
 
-This connector, provided by [Talarian](https://talarian.io/), helps you with your everyday documents, including:
+This connector, provided by [Talarian](https://talarian.io/), helps you with your re-writing, data prep, and analytical tasks documentsfor your documents and spreadheets, including:
 - Writing and editing copy, translating documents
 - Cleaning lists, extracting entities, normalizing formats
 - Summarizing, classifying, categorizing
 
-GPT for Work uses many large language models (LLMs)  to help you in your re-writing, data prep, and analytical tasks, including  GPT-3.5 Turbo, GPT-4, GPT-4 Turbo, Claude, and more. 
-
-The LLMs GPT for Work uses are provided by:
+GPT for Work uses many large language models (LLMs), including GPT-3.5 Turbo, GPT-4, GPT-4 Turbo, Claude, and more, provided by:
 - Anthropic
 - Azure
 - OpenAI
