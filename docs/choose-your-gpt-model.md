@@ -32,8 +32,8 @@ Consult the table below for more information on which models can be used for you
 
 | Use Cases |  |
 |-----------|--------|
-| Excel     | <details><summary>Models</summary> OpenAI gpt-3.5-turbo (0125) - Azure gpt-3.5-turbo (0613) - Azure gpt-4 - OpenAI gpt-4 - OpenAI gpt-4-1106-vision-preview (with GPT_VISION) - Azure gpt-4-turbo - OpenAI gpt-4-turbo - Perplexity sonar-small-online (with GPT_WEB and Web browsing bulk tool) - OpenAI text-embedding-ada-002 (with GPT_MATCH)</details> |
-|           | <details><summary>Models</summary>OpenAI gpt-3.5-turbo (0125) - OpenAI gpt-4 - OpenAI gpt-4-turbo</details> |
+| Excel     | <details><summary>Models</summary> OpenAI gpt-3.5-turbo (0125) <br> Azure gpt-3.5-turbo (0613) <br> Azure gpt-4 - OpenAI gpt-4 - OpenAI gpt-4-1106-vision-preview (with GPT_VISION) - Azure gpt-4-turbo - OpenAI gpt-4-turbo - Perplexity sonar-small-online (with GPT_WEB and Web browsing bulk tool) - OpenAI text-embedding-ada-002 (with GPT_MATCH)</details> |
+| Word      | <details><summary>Models</summary>OpenAI gpt-3.5-turbo (0125) - OpenAI gpt-4 - OpenAI gpt-4-turbo</details> |
 | Sheets    | <details><summary>OpenAI babbage-003 (fine-tuned) - Anthropic claude-3-haiku - Anthropic claude-3-opus - Anthropic claude-3-sonnet - OpenAI davinci-002 (fine-tuned) - OpenAI gpt-3.5-turbo (0125) - Azure gpt-3.5-turbo (0613) - OpenAI gpt-3.5-turbo (fine-tuned) - OpenAI gpt-3.5-turbo-instruct - Azure gpt-4 - OpenAI gpt-4 - OpenAI gpt-4-1106-vision-preview (with GPT_VISION) - Azure gpt-4-turbo - OpenAI gpt-4-turbo - Perplexity sonar-small-online (with GPT_WEB and Web browsing bulk tool) - OpenAI text-embedding-ada-002 (with GPT_MATCH)</summary></details> |
 | Docs      | <details><summary>Anthropic claude-3-haiku - Anthropic claude-3-opus - Anthropic claude-3-sonnet - OpenAI gpt-3.5-turbo (0125) - OpenAI gpt-3.5-turbo-instruct - OpenAI gpt-4 - OpenAI gpt-4-turbo</summary></details> |
 
