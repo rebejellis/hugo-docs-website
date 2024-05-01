@@ -18,7 +18,9 @@ When selecting a model, several key factors come into play when selecting a mode
 
 <details><summary>Use Case Specificity</summary>
 <br>
-Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
+Determine the specific tasks or projects you intend to use the model for. Different models may be more adapted to certain domains, such as general writing, technical content, or creative endeavors.
+<br>
+Consider these use cases:
   
 - Word/Docs
   - Writing and Editing Copy: Determine if your primary task involves drafting new content or refining existing text. Some models excel at generating fresh content, while others are better suited for editing and refining.
