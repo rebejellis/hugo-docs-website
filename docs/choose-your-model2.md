@@ -14,7 +14,7 @@ This article explores the various factors to consider when choosing a model with
 
 ## Factors to Consider
 
-When selecting a model, several key factors come into play. Here's a breakdown of what to consider:
+When selecting a model, several key factors come into play. Click each factor below to consider when selecting a model:
 
 <details><summary>Use Case Specificity</summary>
 <br>
