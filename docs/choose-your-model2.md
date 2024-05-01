@@ -45,7 +45,7 @@ Let's compare the available models within the GPT for Work extensions based on t
 
 Click the factors for each use case in the table below to see a dropdown list of all the models GPT for Work makes available.
 
-| GPT for Work Use Cases | Models |
+| Use Cases | Models to use for... |
 |-----------|--------|
 | Excel     | <details><summary>Perform bulk operations on data</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION)  <br> gpt-4-turbo <br> text-embedding-ada-002 (with GPT_MATCH) <br> gpt-3.5-turbo (0613) <br> gpt-4  <br> gpt-4-turbo <br> sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
 | Word      | <details><summary>Chat</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-turbo</details> |
