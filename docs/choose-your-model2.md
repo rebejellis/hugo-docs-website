@@ -37,7 +37,7 @@ Larger models often provide more nuanced and contextually relevant responses but
   
 <details><summary>Requires API Key</summary>
 <br>
-For GPT for Work supported models (https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the price and billing (https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a purchase pack (https://gptforwork.com/help/billing) must be purchased along with the model. Use the cost estimator (https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.</details>
+For <a href="https://gptforwork.com/help/supported-models">GPT for Work-supported models</a>, GPT for Work-supported models (https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the <a href="https://gptforwork.com/help/billing/pricing-per-model">aprice and billing</a>(https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a <a href="https://gptforwork.com/help/billing">purchase pack</a> (https://gptforwork.com/help/billing) must be purchased along with the model. Use the <a href="https://gptforwork.com/help/billing/cost-estimator">Cost estimator</a>  (https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.</details>
 
 ## Model Comparison
 
