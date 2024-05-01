@@ -14,7 +14,7 @@ This article explores the various factors to consider when choosing a model with
 
 ## Factors to Consider
 
-When selecting a model, several key factors come into play. Click each factor below to consider when selecting a model:
+When selecting a model, several key factors come into play when selecting a model for your use case. Click each factor below to find out more:
 
 <details><summary>Use Case Specificity</summary>
 <br>
@@ -37,7 +37,7 @@ Larger models often provide more nuanced and contextually relevant responses but
   
 <details><summary>Requires API Key</summary>
 <br>
-For <a href="https://gptforwork.com/help/supported-models">GPT for Work-supported models</a>, whether or not an API key is required will affect the <a href="https://gptforwork.com/help/billing/pricing-per-model">aprice and billing</a> because, without an API key, a <a href="https://gptforwork.com/help/billing">purchase pack</a> must be purchased along with the model. Use the <a href="https://gptforwork.com/help/billing/cost-estimator">Cost estimator</a> to find out which model is most cost-effective for your inputs.</details>
+Whether or not an API key is required will affect the <a href="https://gptforwork.com/help/billing/pricing-per-model">price and billing</a> when purchasing choosing a <a href="https://gptforwork.com/help/supported-models">GPT for Work-supported model</a>, because, without an API key, a <a href="https://gptforwork.com/help/billing">purchase pack</a> must be purchased along with the model. Use the <a href="https://gptforwork.com/help/billing/cost-estimator">Cost estimator</a> to find out which model is most cost-effective for your inputs.</details>
 
 ## Model Comparison
 
