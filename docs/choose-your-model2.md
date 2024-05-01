@@ -44,7 +44,7 @@ Whether or not an API key is required will affect the <a href="https://gptforwor
 
 ## Model Comparison
 
-Compare the available models within the GPT for Work extensions, taking into consideration the factors mentioned above. Click on each task example to see a dropdown list of all the models GPT for Work makes available.
+Compare the available models within the GPT for Work extensions, taking into consideration your use case and the factors mentioned above. Click on each task type  in the table below to see a list of all available GPT for Work models for each use case.
 
 | Use Cases | Models to use for... |
 |-----------| :---                 | 
