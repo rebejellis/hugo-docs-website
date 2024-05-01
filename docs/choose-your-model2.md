@@ -17,8 +17,8 @@ In this article, we'll explore the various factors to consider when choosing a m
 When selecting a model, several key factors come into play. Here's a breakdown of what to consider:
 
 <details><summary>Use Case Specificity</summary>
-Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
-<summary>Word/Docs</summary>
+Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.</details>
+<details<summary>Word/Docs</summary>
 
 - **Writing and Editing Copy**: Determine if your primary task involves drafting new content or refining existing text. Some models excel at generating fresh content, while others are better suited for editing and refining.</details>
 
