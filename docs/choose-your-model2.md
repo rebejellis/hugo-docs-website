@@ -27,14 +27,17 @@ Determine the specific tasks or projects you intend to use the model for. Differ
   - Data Preparation: Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.
   - Analysis: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.</details>
 
-### Accuracy vs. Speed
-Assess whether you prioritize accuracy or speed in your workflow. Some models may sacrifice a bit of accuracy for faster response times, while others prioritize precision but may take longer to generate outputs.
+<details><summary>Accuracy vs. Speed</summary>
+<br>
+Assess whether you prioritize accuracy or speed in your workflow. Some models may sacrifice a bit of accuracy for faster response times, while others prioritize precision but may take longer to generate outputs.</details>
 
-### Model Size and Complexity
-Larger models often provide more nuanced and contextually relevant responses but may require more computational resources and time for processing. Evaluate whether the benefits of a larger model outweigh the potential drawbacks for your use case.
+<details><summary>Model Size and Complexity</summary>
+<br>
+Larger models often provide more nuanced and contextually relevant responses but may require more computational resources and time for processing. Evaluate whether the benefits of a larger model outweigh the potential drawbacks for your use case.</details>
   
-### Requires API Key
-For GPT for Work [supported models](https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the [price and billing](https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a [purchase pack](https://gptforwork.com/help/billing) must be purchased along with the model. Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.
+<details><summary>Requires API Key</summary>
+<br>
+For GPT for Work [supported models](https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the [price and billing](https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a [purchase pack](https://gptforwork.com/help/billing) must be purchased along with the model. Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.</details>
 
 ## Model Comparison
 
