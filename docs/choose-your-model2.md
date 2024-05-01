@@ -24,8 +24,8 @@ When selecting a model, several key factors come into play. Here's a breakdown o
 
 ### Excel/Sheets 
 
-Data Preparation:<details>
-<summary>Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.</summary>Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.</details>
+<details><summary>Data Preparation</summary>
+Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.</details>
 Analysis:<details>
 <summary>Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.</summary>Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.</details>
 
