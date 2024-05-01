@@ -41,9 +41,7 @@ For GPT for Work supported models (https://gptforwork.com/help/supported-models)
 
 ## Model Comparison
 
-Let's compare the available models within the GPT for Work extensions based on the factors mentioned above:
-
-Click the factors for each use case in the table below to see a dropdown list of all the models GPT for Work makes available.
+Compare the available models within the GPT for Work extensions based on the factors mentioned above, clicking on each task example to see a dropdown list of all the models GPT for Work makes available.
 
 | Use Cases | Models to use for... |
 |-----------| :---                 | 
