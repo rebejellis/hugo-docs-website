@@ -16,26 +16,27 @@ In this article, we'll explore the various factors to consider when choosing a m
 
 When selecting a model, several key factors come into play. Here's a breakdown of what to consider:
 
-- **Use Case Specificity**: Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
+### Use Case Specificity
 
-### Word/Docs
+Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
+
+#### Word/Docs
 
 - **Writing and Editing Copy**: Determine if your primary task involves drafting new content or refining existing text. Some models excel at generating fresh content, while others are better suited for editing and refining.
 
-### Excel/Sheets 
+#### Excel/Sheets 
 
 - **Data Preparation**: Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.
 = **Analysis**: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.
 
+### Accuracy vs. Speed
+Assess whether you prioritize accuracy or speed in your workflow. Some models may sacrifice a bit of accuracy for faster response times, while others prioritize precision but may take longer to generate outputs.
 
-## Model Comparison
-
-- **Accuracy vs. Speed**: Assess whether you prioritize accuracy or speed in your workflow. Some models may sacrifice a bit of accuracy for faster response times, while others prioritize precision but may take longer to generate outputs.
-
-- **Model Size and Complexity**: Larger models often provide more nuanced and contextually relevant responses but may require more computational resources and time for processing. Evaluate whether the benefits of a larger model outweigh the potential drawbacks for your use case.
+### Model Size and Complexity
+Larger models often provide more nuanced and contextually relevant responses but may require more computational resources and time for processing. Evaluate whether the benefits of a larger model outweigh the potential drawbacks for your use case.
   
-- **Requires API Key**: For GPT for Work [supported models](https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the [price and billing](https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a [purchase pack](https://gptforwork.com/help/billing) must be purchased along with the model. Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.
-
+### Requires API Key
+For GPT for Work [supported models](https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the [price and billing](https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a [purchase pack](https://gptforwork.com/help/billing) must be purchased along with the model. Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.
 
 ## Model Comparison
 
