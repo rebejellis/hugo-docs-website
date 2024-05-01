@@ -1,26 +1,54 @@
-## Choosing the right GPT model for your use case
+---
+id: choosing-right-model
+title: Choosing the Right Model for Your Use Case
+sidebar_label: Choosing the Right Model
+---
 
-Imagine having GPT built right into your work tools. Now you can unleash the power of AI for your Microsoft and Google Workspace tools with [GPT for Work](https://gptforwork.com/).
+# Choosing the Right Model for Your Use Case
 
-This connector, provided by [Talarian](https://talarian.io/), helps you with your re-writing, data prep, and analytical tasks documentsfor your documents and spreadheets, including:
-- Writing and editing copy, translating documents
-- Cleaning lists, extracting entities, normalizing formats
-- Summarizing, classifying, categorizing
+Welcome to our guide on selecting the most suitable model for your needs within the GPT for Work ecosystem. With a range of extensions like Sheets, Docs, Excel, and Word, it's essential to understand which model aligns best with your requirements. Whether you're prioritizing accuracy, speed, or specialized knowledge, this article will help you navigate the decision-making process.
 
-GPT for Work uses many large language models (LLMs), including GPT-3.5 Turbo, GPT-4, GPT-4 Turbo, Claude, and more, provided by:
-- Anthropic
-- Azure
-- OpenAI
-- Perplexity
+## Introduction
 
-Click the providers for each use case in the table below to see a dropdown list of all the models GPT for Work makes available.
+In this article, we'll explore the various factors to consider when choosing a model within the GPT for Work extensions. Each model comes with its own strengths and limitations, and understanding these nuances will empower you to make informed decisions that enhance your workflow efficiency and output quality.
 
-| Use Cases | Factors |
+## Factors to Consider
+
+When selecting a model, several key factors come into play. Here's a breakdown of what to consider:
+
+- **Use Case Specificity**: Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
+
+-- **Word/Docs**: 
+
+--- **Writing and Editing Copy**: Determine if your primary task involves drafting new content or refining existing text. Some models excel at generating fresh content, while others are better suited for editing and refining.
+
+-- **Excel/Sheets**: 
+
+--- **Data Preparation**: Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.
+
+--- **Analysis**: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.
+
+## Model Comparison
+
+- **Accuracy vs. Speed**: Assess whether you prioritize accuracy or speed in your workflow. Some models may sacrifice a bit of accuracy for faster response times, while others prioritize precision but may take longer to generate outputs.
+
+- **Model Size and Complexity**: Larger models often provide more nuanced and contextually relevant responses but may require more computational resources and time for processing. Evaluate whether the benefits of a larger model outweigh the potential drawbacks for your use case.
+  
+- **Requires API Key**: For GPT for Work [supported models](https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the [price and billing](https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a [purchase pack](https://gptforwork.com/help/billing) must be purchased along with the model.
+
+
+## Model Comparison
+
+Let's compare the available models within the GPT for Work extensions based on the factors mentioned above:
+
+Click the factors for each use case in the table below to see a dropdown list of all the models GPT for Work makes available.
+
+| Use Cases | Models |
 |-----------|--------|
-| Excel     | <details><summary>Analyze</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION)  <br> gpt-4-turbo <br> text-embedding-ada-002 (with GPT_MATCH)</details> <details><summary>Data prep</summary>gpt-3.5-turbo (0613) <br> gpt-4  <br> gpt-4-turbo</details><details><summary></summary> sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
-| Word      | <details><summary>OpenAI</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-turbo</details> |
-| Sheets    | <details><summary>OpenAI</summary>babbage-003 (fine-tuned)  <br>  davinci-002 (fine-tuned)  <br>  gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION) <br>  gpt-3.5-turbo-instruct  <br> gpt-3.5-turbo (fine-tuned)  <br> gpt-4-turbo  <br> text-embedding-ada-002 (with GPT_MATCH) </details> <details><summary>Anthropic</summary>claude-3-haiku <br> claude-3-opus <br> claude-3-sonnet </details> <details><summary>Azure</summary>gpt-3.5-turbo (0613) <br> gpt-4 <br> gpt-4-turbo<br> </details> <details><summary>Perplexity</summary>sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
-| Docs      | <details><summary>OpenAI</summary>gpt-3.5-turbo (0125) <br> gpt-3.5-turbo-instruct <br> gpt-4 <br> gpt-4-turbo </details> <details><summary> Anthropic</summary>claude-3-haiku <br> claude-3-opus <br> claude-3-sonnet</details> |
+| Excel     | <details><summary>Perform bulk operations on data</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION)  <br> gpt-4-turbo <br> text-embedding-ada-002 (with GPT_MATCH) <br> gpt-3.5-turbo (0613) <br> gpt-4  <br> gpt-4-turbo <br> sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
+| Word      | <details><summary>Chat</summary>gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-turbo</details> |
+| Sheets    | <details><summary>Perform bulk operations on data</summary>babbage-003 (fine-tuned)  <br>  davinci-002 (fine-tuned)  <br>  gpt-3.5-turbo (0125) <br> gpt-4 <br> gpt-4-1106-vision-preview (with GPT_VISION) <br>  gpt-3.5-turbo-instruct  <br> gpt-3.5-turbo (fine-tuned)  <br> gpt-4-turbo  <br> text-embedding-ada-002 (with GPT_MATCH)  <br> claude-3-haiku <br> claude-3-opus <br> claude-3-sonnet <br> gpt-3.5-turbo (0613) <br> gpt-4 <br> gpt-4-turbo<br> <br> sonar-small-online (with GPT_WEB and Web browsing bulk tool)</details> |
+| Docs      | <details><summary>Integrated ChatGPT functionality</summary>gpt-3.5-turbo (0125) <br> gpt-3.5-turbo-instruct <br> gpt-4 <br> gpt-4-turbo </details> <details><summary> Enables faster writing, editing, translation </summary>claude-3-haiku <br> claude-3-opus <br> claude-3-sonnet</details> |
 
 
 <!--
