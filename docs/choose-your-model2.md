@@ -16,18 +16,17 @@ In this article, we'll explore the various factors to consider when choosing a m
 
 When selecting a model, several key factors come into play. Here's a breakdown of what to consider:
 
-### Use Case Specificity
-
+<details><summary>Use Case Specificity</summary>
 Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
 
-#### Word/Docs
+<br<summary>Word/Docs</summary>
 
 - **Writing and Editing Copy**: Determine if your primary task involves drafting new content or refining existing text. Some models excel at generating fresh content, while others are better suited for editing and refining.
 
-#### Excel/Sheets 
+<br><summaryExcel/Sheets</summary>
 
 - **Data Preparation**: Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.
-= **Analysis**: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.
+- **Analysis**: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations./details>
 
 ### Accuracy vs. Speed
 Assess whether you prioritize accuracy or speed in your workflow. Some models may sacrifice a bit of accuracy for faster response times, while others prioritize precision but may take longer to generate outputs.
