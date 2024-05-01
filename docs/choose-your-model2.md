@@ -34,7 +34,7 @@ When selecting a model, several key factors come into play. Here's a breakdown o
 
 - **Model Size and Complexity**: Larger models often provide more nuanced and contextually relevant responses but may require more computational resources and time for processing. Evaluate whether the benefits of a larger model outweigh the potential drawbacks for your use case.
   
-- **Requires API Key**: For GPT for Work [supported models](https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the [price and billing](https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a [purchase pack](https://gptforwork.com/help/billing) must be purchased along with the model.
+- **Requires API Key**: For GPT for Work [supported models](https://gptforwork.com/help/supported-models), whether or not an API key is required will affect the [price and billing](https://gptforwork.com/help/billing/pricing-per-model) in that without an API key, a [purchase pack](https://gptforwork.com/help/billing) must be purchased along with the model. Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.
 
 
 ## Model Comparison
@@ -55,7 +55,5 @@ Click the factors for each use case in the table below to see a dropdown list of
 Docusaurus markdown does not support embedded dropdowns or filters within tables. I would suggest using JavaScript (maybe DataTables or React Table) or a Docusaurus plugin to add that functionality to the table.
 -->
 
-For more information about which models require an API key, see the section on [Supported Models](https://gptforwork.com/help/supported-models).
 
-Use the [Cost estimator](https://gptforwork.com/help/billing/cost-estimator) to find out which model is most cost-effective for your inputs.
 
