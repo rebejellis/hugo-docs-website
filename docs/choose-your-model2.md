@@ -18,16 +18,14 @@ When selecting a model, several key factors come into play. Here's a breakdown o
 
 - **Use Case Specificity**: Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
 
-### Word/Docs**
+### Word/Docs
 
---- **Writing and Editing Copy**: Determine if your primary task involves drafting new content or refining existing text. Some models excel at generating fresh content, while others are better suited for editing and refining.
+- **Writing and Editing Copy**: Determine if your primary task involves drafting new content or refining existing text. Some models excel at generating fresh content, while others are better suited for editing and refining.
 
 ### Excel/Sheets 
 
-<details><summary>Data Preparation</summary>
-Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.</details>
-<details><summary>Analysis</summary>
-Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.</details>
+- **Data Preparation**: Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.
+= **Analysis**: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.
 
 
 ## Model Comparison
