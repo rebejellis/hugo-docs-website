@@ -25,7 +25,7 @@ Determine the specific tasks or projects you intend to use the model for. Differ
 <summaryExcel/Sheets</summary>
 
 - **Data Preparation**: Assess whether your workflow involves cleaning lists, extracting entities, or normalizing formats. Certain models are adept at processing structured data and performing data cleaning tasks efficiently.
-- **Analysis**: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations./details>
+- **Analysis**: Consider if your use case involves summarizing text, classifying documents, or categorizing information. Models tailored for analytical tasks can provide accurate summaries, classifications, and categorizations.</details>
 
 ### Accuracy vs. Speed
 Assess whether you prioritize accuracy or speed in your workflow. Some models may sacrifice a bit of accuracy for faster response times, while others prioritize precision but may take longer to generate outputs.
