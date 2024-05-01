@@ -17,7 +17,7 @@ In this article, we'll explore the various factors to consider when choosing a m
 When selecting a model, several key factors come into play. Here's a breakdown of what to consider:
 
 <details><summary>Use Case Specificity</summary>
-  
+<br>
 Determine the specific tasks or projects you intend to use the model for. Different models may excel in various domains, such as general writing, technical content, or creative endeavors.
   
 - Word/Docs
