@@ -6,7 +6,7 @@ sidebar_label: Choosing the Right Model
 
 # Choosing the Right Model for Your Use Case
 
-Welcome to our guide on selecting the most suitable model for your needs within the GPT for Work ecosystem. With a range of extensions like Sheets, Docs, Excel, and Word, it's essential to understand which model aligns best with your requirements. Whether you're prioritizing accuracy, speed, or specialized knowledge, this article will help you navigate the decision-making process.
+Welcome to our guide on selecting the most suitable model for your needs within the [GPT for Work](https://gptforwork.com/) ecosystem. With a range of extensions like Sheets, Docs, Excel, and Word, it's essential to understand which model aligns best with your requirements. Whether you're prioritizing accuracy, speed, or specialized knowledge, this article will help you navigate the decision-making process.
 
 ## Introduction
 
