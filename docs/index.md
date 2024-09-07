@@ -34,13 +34,6 @@ As a seasoned professional in the Information Technology sector, I bring over a 
 - [Additional Technical Writing Samples](https://github.com/rebejellis/xcultural-content/blob/9acd4deeca2d6521f99c41d2f9dc5c69ca7acfb6/docs/assets/Additional%20TW%20Samples%20Rebecca%20Ellis%20-%20Procedures.pdf){:target="_blank"}
 - [Documenting a Language Learning Platform](https://github.com/rebejellis/xcultural-content/blob/647701a1cc50dd5960f036d6441e7ce07ae46c81/docs/assets/Onboarding%20guide%20LEARNSHIP.pdf){:target="_blank"}
 
-### Linea Blockchain Network Solution and Use Case Studies
-
-- **Publication:** [ethereumworldnews.com](http://ethereumworldnews.com){:target="_blank"}
-Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual machine that sits on top of Ethereum and participates in Ethereum’s security mechanism. Linea offloads transaction validation, reducing processing costs in the Ethereum execution environment by providing Ethereum with reports that transactions took place and were completed without revealing the details of each transaction. Linea preserves knowledge of the inner workings of these contracts while optimizing Ethereum's processing power.
-- **File:** [View Linea Blockchain Network Solution and Use Case Studies](https://github.com/rebejellis/xcultural-content/blob/647701a1cc50dd5960f036d6441e7ce07ae46c81/docs/assets/ConsensysWritingSample.pdf){:target="_blank"}
-
----
 
 ## genAI Experiments
 
@@ -48,6 +41,14 @@ Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual
 
 - [Read about my genAI experiment to restructure text for documentation](https://github.com/rebejellis/xcultural-content/blob/5df401a0c6bf210966a1cfeb5e6164b93461ad63/docs/assets/AI%20Experiment_%20Restructuring%20Text.pdf){:target="_blank"}
 - **Article:** [GenAI and the Language Arts](https://github.com/rebejellis/xcultural-content/blob/26987f4788f2bedf3b1f2ee55253c670ab349b56/docs/assets/GenAI%20and%20the%20language%20arts.pdf){:target="_blank"}
+
+---
+
+### Linea Blockchain Network Solution and Use Case Studies
+
+- **Publication:** [ethereumworldnews.com](http://ethereumworldnews.com){:target="_blank"}
+Linea is a type of zkEVM L2 network, a second layer network, an Ethereum virtual machine that sits on top of Ethereum and participates in Ethereum’s security mechanism. Linea offloads transaction validation, reducing processing costs in the Ethereum execution environment by providing Ethereum with reports that transactions took place and were completed without revealing the details of each transaction. Linea preserves knowledge of the inner workings of these contracts while optimizing Ethereum's processing power.
+- **File:** [View Linea Blockchain Network Solution and Use Case Studies](https://github.com/rebejellis/xcultural-content/blob/647701a1cc50dd5960f036d6441e7ce07ae46c81/docs/assets/ConsensysWritingSample.pdf){:target="_blank"}
 
 ---
 
