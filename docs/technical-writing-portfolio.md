@@ -6,6 +6,7 @@ id: technical-writing-portfolio
 
 ### Samples
 
+- [Google Vertex AI Search for retail](https://cloud.google.com/retail/docs/overview)
 - [Choosing the Right GPT Model for Your Use Case](https://github.com/rebejellis/xcultural-content/blob/c0767ea6054b011c70f419bcd01996f8ef721f69/docs/choose-your-model2.md)
 - [View Technical Writing Portfolio](https://github.com/rebejellis/xcultural-content/blob/b370b362382d9eec1bb573bb1d670532822146b4/docs/assets/Senior%20TW%20Portfolio%20Rebecca%20Ellis%202-1.pdf)
 - [Additional Technical Writing Samples](https://github.com/rebejellis/xcultural-content/blob/9acd4deeca2d6521f99c41d2f9dc5c69ca7acfb6/docs/assets/Additional%20TW%20Samples%20Rebecca%20Ellis%20-%20Procedures.pdf)
