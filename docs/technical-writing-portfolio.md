@@ -11,7 +11,6 @@ id: technical-writing-portfolio
 - [View Technical Writing Portfolio](https://github.com/rebejellis/xcultural-content/blob/b370b362382d9eec1bb573bb1d670532822146b4/docs/assets/Senior%20TW%20Portfolio%20Rebecca%20Ellis%202-1.pdf)
 - [Additional Technical Writing Samples](https://github.com/rebejellis/xcultural-content/blob/9acd4deeca2d6521f99c41d2f9dc5c69ca7acfb6/docs/assets/Additional%20TW%20Samples%20Rebecca%20Ellis%20-%20Procedures.pdf)
 - [Learnship: Documenting a Language Learning Platform](https://s3.amazonaws.com/external_clips/4972829/Onboarding_guide_LEARNSHIP.pdf?1710973248)
-- [PII-less work samples: Mandatory service announcements for Cloud and Workspace](https://github.com/rebejellis/xcultural-content/tree/10062b008750b8a2015e387e47df545be63846c2/docs/assets/GCPWorkspaceSamples)
 
 ### Linea Blockchain Network Solution and Use Case Studies
 
